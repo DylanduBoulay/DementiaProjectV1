@@ -3,7 +3,7 @@ The design brief was that the project needed to help people with dementia by bei
 Event record global coordinates, time, date, description and event types are recorded to a local XML/SOAP file that is read and initialised on startup. The interactable map is imported via GMaps.
 
 This project was completed using Visual Studio with the ASP.NET development modules.
-It uses C#, ASP.Net framework, Gmaps, XML/SOAP & LINQ.
+It uses C#, Gmaps, XML/SOAP & LINQ.
 
 As for the code itself, it uses dictionaries and keys, inheritance, classes, and polymorphism.
 
