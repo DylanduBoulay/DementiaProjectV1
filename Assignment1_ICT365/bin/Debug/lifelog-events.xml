@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents"></SOAP-ENV:Body>
+  <Event>
+    <EventName>First Text</EventName>
+    <EventID>0</EventID>
+    <TextMessage>
+      <Description>Texting a friend</Description>
+      <Lat>-32.06015049009521</Lat>
+      <Long>115.84084740174319</Long>
+      <Datetimestamp>10/09/2021 11:00</Datetimestamp>
+    </TextMessage>
+  </Event>
+  <Event>
+    <EventName>MyTweet</EventName>
+    <EventID>1</EventID>
+    <Tweet>
+      <Description>This is some tweet in my day</Description>
+      <Lat>-31.909883989441372</Lat>
+      <Long>115.84495390891678</Long>
+      <Datetimestamp>10/09/2021 12:01</Datetimestamp>
+    </Tweet>
+  </Event>
+  <Event>
+    <EventName>Egg Video</EventName>
+    <EventID>2</EventID>
+    <Video>
+      <Description>Video of me egging a house</Description>
+      <Lat>-32.05388690882798</Lat>
+      <Long>115.7775314385945</Long>
+      <Datetimestamp>10/09/2021 12:13</Datetimestamp>
+      <MediaFilePath>C:\TestingMedia\TestVideos\EggVideo1.webm</MediaFilePath>
+    </Video>
+  </Event>
+  <Event>
+    <EventName>Bird Watching</EventName>
+    <EventID>3</EventID>
+    <Picture>
+      <Description>Photo of my chickens</Description>
+      <Lat>-32.03660672727976</Lat>
+      <Long>116.02263510629635</Long>
+      <Datetimestamp>12/09/2021 12:13</Datetimestamp>
+      <MediaFilePath>C:\TestingMedia\TestImages\Chicken.png</MediaFilePath>
+    </Picture>
+  </Event>
+  <Event>
+    <EventName>Texting Mum</EventName>
+    <EventID>4</EventID>
+    <TextMessage>
+      <Description>Making Plans</Description>
+      <Lat>-32.08917343974493</Lat>
+      <Long>115.89273949875016</Long>
+      <Datetimestamp>12/09/2021 14:19</Datetimestamp>
+    </TextMessage>
+  </Event>
+  <Event>
+    <EventName>Calling Dad</EventName>
+    <EventID>5</EventID>
+    <Phonecall>
+      <Description>Wishing him a happy birthday</Description>
+      <Lat>-31.954201357443566</Lat>
+      <Long>115.84774017333984</Long>
+      <Datetimestamp>12/09/2021 20:15</Datetimestamp>
+    </Phonecall>
+  </Event>
+  <Event>
+    <EventName>Calling food place</EventName>
+    <EventID>6</EventID>
+    <Phonecall>
+      <Description>Uber Eats</Description>
+      <Lat>-31.958570746627416</Lat>
+      <Long>115.86765289306641</Long>
+      <Datetimestamp>14/09/2021 22:41</Datetimestamp>
+    </Phonecall>
+  </Event>
+  <Event>
+    <EventName>Smile</EventName>
+    <EventID>7</EventID>
+    <Picture>
+      <Description>A cute picture of a smile</Description>
+      <Lat>-31.7112288308879719</Lat>
+      <Long>115.907082278137207</Long>
+      <Datetimestamp>15/09/2021 14:01</Datetimestamp>
+      <MediaFilePath>C:\TestingMedia\TestImages\Face.png</MediaFilePath>
+    </Picture>
+  </Event>
+  <Event>
+    <EventName>Image of a red Tile</EventName>
+    <EventID>8</EventID>
+    <Picture>
+      <Description>A red tile, just because</Description>
+      <Lat>-31.939489552780884</Lat>
+      <Long>115.86868286132813</Long>
+      <Datetimestamp>15/09/2021 14:02</Datetimestamp>
+      <MediaFilePath>C:\TestingMedia\TestImages\RedTile.png</MediaFilePath>
+    </Picture>
+  </Event>
+  <Event>
+    <EventName>Image of a blue tile</EventName>
+    <EventID>9</EventID>
+    <Picture>
+      <Description>A blue tile, just because</Description>
+      <Lat>-31.935993332049236</Lat>
+      <Long>115.88241577148438</Long>
+      <Datetimestamp>15/09/2021 14:05</Datetimestamp>
+      <MediaFilePath>C:\TestingMedia\TestImages\BlueTile.png</MediaFilePath>
+    </Picture>
+  </Event>
+  <Event>
+    <EventName>Garden vid</EventName>
+    <EventID>10</EventID>
+    <Video>
+      <Description>a video of the garden</Description>
+      <Lat>-32.935993332049236</Lat>
+      <Long>115.88241577148438</Long>
+      <Datetimestamp>15/09/2021 14:05</Datetimestamp>
+      <MediaFilePath>C:\TestingMedia\TestVideos\Garden.webm</MediaFilePath>
+    </Video>
+  </Event>
+  <Event>
+    <EventName>calling neighbour</EventName>
+    <EventID>12</EventID>
+    <Phonecall>
+      <Description>Missing Dog or something</Description>
+      <Lat>-31.947792543995604</Lat>
+      <Long>115.88962554931641</Long>
+      <Datetimestamp>15/09/2021 17:46</Datetimestamp>
+    </Phonecall>
+  </Event>
+  <Event>
+    <EventName>Calling Brother</EventName>
+    <EventID>13</EventID>
+    <Phonecall>
+      <Description>calling my brother</Description>
+      <Lat>-31.620643692450571</Lat>
+      <Long>115.74371337890625</Long>
+      <Datetimestamp>15/09/2021 18:09</Datetimestamp>
+    </Phonecall>
+  </Event>
+  <Event>
+    <EventName>Twtter Message</EventName>
+    <EventID>14</EventID>
+    <Tweet>
+      <Description>Messaging JOE</Description>
+      <Lat>-31.826231907142883</Lat>
+      <Long>116.3397216796875</Long>
+      <Datetimestamp>15/09/2021 18:09</Datetimestamp>
+    </Tweet>
+  </Event>
+  <Event>
+    <EventName>Alerting Friend</EventName>
+    <EventID>15</EventID>
+    <TextMessage>
+      <Description>I accidentally ate some road kill.</Description>
+      <Lat>-32.236036217464743</Lat>
+      <Long>115.9881591796875</Long>
+      <Datetimestamp>15/09/2021 18:09</Datetimestamp>
+    </TextMessage>
+  </Event>
+  <Event>
+    <EventName>Egg Video 2</EventName>
+    <EventID>16</EventID>
+    <Video>
+      <Description>Video of me deshelling an egg.</Description>
+      <Lat>-32.354443027092927</Lat>
+      <Long>115.8343505859375</Long>
+      <Datetimestamp>15/09/2021 18:11</Datetimestamp>
+      <MediaFilePath>C:\TestingMedia\TestVideos\Eggs2.webm</MediaFilePath>
+    </Video>
+  </Event>
+  <Event>
+    <EventName>Brigadoon</EventName>
+    <EventID>17</EventID>
+    <Tweet>
+      <Description>I am at Brigadoon</Description>
+      <Lat>-31.780714770267451</Lat>
+      <Long>116.08154296875</Long>
+      <Datetimestamp>19/09/2021 00:29</Datetimestamp>
+    </Tweet>
+  </Event>
+  <Event>
+    <EventName>At York</EventName>
+    <EventID>18</EventID>
+    <Tweet>
+      <Description>I am at York</Description>
+      <Lat>-31.889218598760962</Lat>
+      <Long>116.77093505859375</Long>
+      <Datetimestamp>15/09/2021 18:22</Datetimestamp>
+    </Tweet>
+  </Event>
+  <Event>
+    <EventName>Carnarvon</EventName>
+    <EventID>19</EventID>
+    <Tweet>
+      <Description>I am at Carnarvon</Description>
+      <Lat>-24.876469910831531</Lat>
+      <Long>113.675537109375</Long>
+      <Datetimestamp>15/09/2021 18:22</Datetimestamp>
+    </Tweet>
+  </Event>
+  <Event>
+    <EventName>I am at Bickley</EventName>
+    <EventID>20</EventID>
+    <Tweet>
+      <Description>Bickley</Description>
+      <Lat>-32.004000068823885</Lat>
+      <Long>116.08909606933594</Long>
+      <Datetimestamp>17/09/2021 18:54</Datetimestamp>
+    </Tweet>
+  </Event>
+  <Event>
+    <EventName>Brisbane</EventName>
+    <EventID>21</EventID>
+    <Phonecall>
+      <Description>Calling Someone</Description>
+      <Lat>-27.48878116893799</Lat>
+      <Long>152.9736328125</Long>
+      <Datetimestamp>19/09/2021 00:20</Datetimestamp>
+    </Phonecall>
+  </Event>
+  <Event>
+    <EventName>Middle of desert</EventName>
+    <EventID>22</EventID>
+    <Phonecall>
+      <Description>I got a phonecalll</Description>
+      <Lat>-22.634292693793526</Lat>
+      <Long>135.439453125</Long>
+      <Datetimestamp>15/05/2023 09:37</Datetimestamp>
+    </Phonecall>
+  </Event>
+</SOAP-ENV:Envelope>

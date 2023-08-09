@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1_ICT365", "Assignment1_ICT365\Assignment1_ICT365.csproj", "{70106A42-ABD7-4A29-A497-2C89F9D67EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1_ICT365Tests", "Assignment1_ICT365Tests\Assignment1_ICT365Tests.csproj", "{395AC754-DCC1-4DA2-A0CA-BC034D61D98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70106A42-ABD7-4A29-A497-2C89F9D67EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70106A42-ABD7-4A29-A497-2C89F9D67EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70106A42-ABD7-4A29-A497-2C89F9D67EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70106A42-ABD7-4A29-A497-2C89F9D67EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395AC754-DCC1-4DA2-A0CA-BC034D61D98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395AC754-DCC1-4DA2-A0CA-BC034D61D98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395AC754-DCC1-4DA2-A0CA-BC034D61D98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395AC754-DCC1-4DA2-A0CA-BC034D61D98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DF4AAC-B089-4152-8751-056271BFBDB8}
+	EndGlobalSection
+EndGlobal
