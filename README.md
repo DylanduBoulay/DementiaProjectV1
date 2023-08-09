@@ -10,4 +10,4 @@ As for the code itself, it uses dictionaries and keys, inheritance, classes, and
 ## Accessing the project
 Just have visual studio installed. The latest version should be fine. Be sure to include the .Net framework.
 
-Open it by clicking on the .vsl
+Open it by clicking on the .sln at the root.
